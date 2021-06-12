@@ -1,7 +1,6 @@
 ---
-page.title: GREアプリ プライバシーポリシー
-title: Test
 layout: default
+title: Test
 ---
 
 
