@@ -1,5 +1,5 @@
 ---
-permalink: "/gre/privacy-policy"
+permalink: "/gre/privacy-policy/"
 title:  "GRE プライバシーポリシー"
 ---
 
