@@ -23,5 +23,9 @@ layout: default
 
 何かご不明な点がございましたら下記にお問い合わせください。
 
+## 「プライバシーポリシーの変更手続き」
+
+本アプリの継続的な開発により、本ポリシーを変更することがあります。変更した場合には、アプリからお客様に通知いたします。
+
 gre.app.application@gmail.com
 [gre.app.application@gmail.com](mailto:gre.app.application@gmail.com)
