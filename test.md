@@ -1,7 +1,11 @@
 ---
 layout: default
-title: "title"
-description: description
+title: Another page
+description: This is just another page
 ---
 
-Test~
+## Welcome to another page
+
+_yay_
+
+[back](./)
