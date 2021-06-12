@@ -1,6 +1,7 @@
 ---
 layout: default
-title: GREアプリ GREEN プライバシーポリシー
+title: GREアプリ GREEN
+description: プライバシーポリシー
 ---
 
 
