@@ -28,5 +28,4 @@ layout: default
 ## お問い合わせ先
 何かご不明な点がございましたら下記にお問い合わせください。
 
-gre.app.application@gmail.com
 [gre.app.application@gmail.com](mailto:gre.app.application@gmail.com)
