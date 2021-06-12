@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GREアプリ GREEN
+title: GRE単語帳アプリ GREEN
 description: プライバシーポリシー
 ---
 
